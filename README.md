@@ -2,12 +2,11 @@
 
 > [**MSFA Image Denoising using Physics-based Noise Model and Noise-decoupled Network**]()  
 > Yuqi Jiang, Ying Fu, Qiankun Liu, Tao Zhang, Jun Zhang
-> 
 > IEEE T-PAMI 2023 Submission
 
 <!-- ![framework](assets/framework.png) -->
 
-This repository contains the official code and data of the IEEE T-PAMI submission paper "MSFA Image Denoising using Physics-based Noise Model and Noise-decoupled Network", by Yuqi Jiang, Ying Fu, Qiankun Liu, and Jun Zhang.
+This repository contains the official code and data of the IEEE T-PAMI submission paper "MSFA Image Denoising using Physics-based Noise Model and Noise-decoupled Network", by Yuqi Jiang, Ying Fu, Qiankun Liu, Tao Zhang, and Jun Zhang.
 
 <!-- [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Learning_Rain_Location_Prior_for_Nighttime_Deraining_ICCV_2023_paper.pdf) | [Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Zhang_Learning_Rain_Location_ICCV_2023_supplemental.pdf) | [Data](https://www.kaggle.com/datasets/zkawfanx/gtav-nightrain-rerendered-version) -->
 
