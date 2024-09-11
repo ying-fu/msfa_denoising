@@ -1,7 +1,7 @@
 # MSFA Image Denoising using Physics-based Noise Model and Noise-decoupled Network
 
 > [**MSFA Image Denoising using Physics-based Noise Model and Noise-decoupled Network**]()  
-> Yuqi Jiang, Ying Fu, Qiankun Liu, Tao Zhang, Jun Zhang
+> Yuqi Jiang, Ying Fu, Qiankun Liu, Tao Zhang, Jun Zhang 
 > IEEE T-PAMI 2023 Submission
 
 <!-- ![framework](assets/framework.png) -->
